@@ -1,7 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE questions>
+<!DOCTYPE questions SYSTEM "preguntas.dtd">
 
 <questions>
     <question id="pregunta1">
