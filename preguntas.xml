@@ -1,0 +1,78 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+    <question id="pregunta1">
+	<type>number</type>
+	<title>¿Con que edad murión Napoleon? </title>
+	<answer>51</answer>
+    </question>
+
+    <question id="pregunta2">
+	<type>date</type>
+	<title>¿Cual es la fecha de la batalla de Waterloo?</title>
+	<answer>18/06/1815</answer>
+    </question>
+
+    <question id="pregunta3">
+	<type>text</type>
+	<title>¿Cual es el nombre de la "pasionaria"?</title>
+	<answer>Dolores Ibárruri</answer>
+    </question>
+
+    <question id="pregunta4">
+	<type>select</type>
+	<title>¿En que año finalizó la guerra civil española?</title>
+  <option>1842</option>
+  <option>1920</option>
+  <option>1482</option>
+  <option>1939</option>
+  <answer>4</answer>
+    </question>
+
+    <question id="pregunta5">
+	<type>select</type>
+	<title>¿Cuantas personas firmaron la constitución española?</title>
+  <option>1978</option>
+  <option>1945</option>
+  <option>1939</option>
+  <answer>0</answer>
+    </question>
+
+    <question id="pregunta6">
+	<type>text</type>
+	<title>¿Quien inventó la pasteurización</title>
+	<answer>Louis Pasteur</answer>
+    </question>
+
+    <question id="pregunta7">
+	<type>date</type>
+	<title>¿En que fecha murió Marie Curie?</title>
+	<answer>04/07/1934</answer>
+    </question>
+
+    <question id="pregunta8">
+	<type>number</type>
+	<title>Cuantos bandos existian en la guerra de civil americana?</title>
+	<answer>2</answer>
+    </question>
+
+    <question id="pregunta9">
+	<type>select</type>
+	<title>¿A quien se considera el padre de la corriente alterna?</title>
+	<option>Thomas Alva Edison</option>
+  <option>Alexander Graham Bell</option>
+  <option>Nikola Tesla</option>
+  <option>Guillermo Marconi</option>
+  <answer>2</answer>
+    </question>
+
+    <question id="pregunta10">
+	<type>text</type>
+	<title>¿De que país se llegó a decir que en el nunca se ponía el sol?</title>
+	<answer>España</answer>
+    </question>
+
+</questions>
