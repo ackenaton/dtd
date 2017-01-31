@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions [
 <!ELEMENT questions (question)+>
 <!ELEMENT question (type,number,date,text,select,answer)>
 <!ATTLIST question id ID #REQUIRED>
@@ -8,3 +9,4 @@
 <!ELEMENT text (#PCDATA)>
 <!ELEMENT select (#PCDATA)>
 <!ELEMENT answer (#PCDATA)>
+]>
